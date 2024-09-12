@@ -1,0 +1,34 @@
+{
+  "Rooms": [
+    {
+      "Name": "People",
+      "Memories": [
+        {
+          "Day": "2024-09-11",
+          "Description": "Met a guy named Babel."
+        },
+        {
+          "Day": "2024-09-12",
+          "Description": "Met a guy named Johnny."
+        }
+      ]
+    },
+    {
+      "Name": "Experiences",
+      "Memories": [
+        {
+          "Day": "2024-09-11",
+          "Description": "Tried a new dish called balut"
+        },
+        {
+          "Day": "2024-09-12",
+          "Description": "Have a databases quiz on 2024-12-19"
+        },
+        {
+          "Day": "2024-09-12",
+          "Description": "Have another databases quiz on 2024-12-26"
+        }
+      ]
+    }
+  ]
+}
